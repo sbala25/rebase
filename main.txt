@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 mainChange
+=======
+mainChange change from feture 1 new
+>>>>>>> Stashed changes
